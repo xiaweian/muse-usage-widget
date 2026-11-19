@@ -1,26 +1,35 @@
 [
-{
-  "name": "知悦",
-  "updated_at": "2026-11-20T00:57:15+08:00",
-  "plan": "Free",
-  "percent_used": 100,
-  "resets_at": "2026-11-20T13:11:00+08:00",
-  "additional_tokens": { "percent_used": 0, "left_label": "30B tokens left" }
-},
-{
-  "name": "知意",
-  "updated_at": "2026-11-20T00:54:03+08:00",
-  "plan": "Free",
-  "percent_used": 42,
-  "resets_at": "2026-11-25T13:57:00+08:00",
-  "additional_tokens": { "percent_used": 0, "left_label": "30B tokens left" }
-},
-{
-  "name": "知雅",
-  "updated_at": "2026-11-20T00:44:06+08:00",
-  "plan": "Free",
-  "percent_used": 0,
-  "resets_at": "2026-11-26T03:48:00+08:00",
-  "additional_tokens": { "percent_used": 0, "left_label": "5.9B tokens left" }
-}
+  {
+    "name": "知悦",
+    "updated_at": "2026-11-20T00:57:15+08:00",
+    "plan": "Free",
+    "percent_used": 100,
+    "resets_at": "2026-11-20T13:11:00+08:00",
+    "additional_tokens": {
+      "percent_used": 0,
+      "left_label": "30B tokens left"
+    }
+  },
+  {
+    "name": "知意",
+    "updated_at": "2026-11-20T00:54:03+08:00",
+    "plan": "Free",
+    "percent_used": 42,
+    "resets_at": "2026-11-25T13:57:00+08:00",
+    "additional_tokens": {
+      "percent_used": 0,
+      "left_label": "30B tokens left"
+    }
+  },
+  {
+    "name": "知雅",
+    "updated_at": "2026-11-20T01:01:18+08:00",
+    "plan": "Free",
+    "percent_used": 1,
+    "resets_at": "2026-11-26T03:48:00+08:00",
+    "additional_tokens": {
+      "percent_used": 0,
+      "left_label": "5.9B tokens left"
+    }
+  }
 ]
